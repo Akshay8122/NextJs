@@ -1,0 +1,38 @@
+.container {
+ text-align: center;
+ margin-top: 125px;
+ padding: 100px 50px;
+  box-shadow: 2px 0px 8px 0px #14a990;
+  border-radius: 30px;
+  gap:6rem;
+}
+
+.input1 {
+    margin-bottom: 25px;
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+}
+
+.input2{
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+}
+
+.postbtn{
+margin-top: 15px;
+color:white;
+background-color:#14a990;
+padding: 2px;
+}
+
+.handle{
+  margin-top: 25px;
+}
+
+ /* {
+margin-left: 2px;
+} */
+
+.updatebtn,.delbtn{
+    margin-left: 5px;
+}

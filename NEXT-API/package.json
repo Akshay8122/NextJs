@@ -1,0 +1,27 @@
+{
+  "name": "mext-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "serve-json": "json-server --watch db.json --port 4000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-css-modules": "^4.7.11",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "@types/react": "^18.0.5",
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.5",
+    "typescript": "^4.6.3",
+    "typescript-plugin-css-modules": "^3.4.0"
+  }
+}

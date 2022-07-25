@@ -1,0 +1,13 @@
+.container {
+ text-align: center;
+ padding: 10px 5px;
+  box-shadow: 2px 0px 8px 0px slateblue;
+  border-radius: 30px;
+  gap:6rem;
+}
+
+/* .list{
+    text-align: center;
+    margin-top: 10rem;
+    background-color: #e8e7e6;
+} */
